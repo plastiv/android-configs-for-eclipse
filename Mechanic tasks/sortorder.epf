@@ -1,0 +1,10 @@
+# @title Android members sort order
+# @description The members will be displayed in next order: Static fields, static initializers, fields, initializers, constructors, static methods, methods, types
+# @task_type RECONCILE
+#
+# 6:07 PM 3/30/2013
+
+file_export_version=3.0
+
+/instance/org.eclipse.jdt.ui/outlinesortoption=SF,SI,F,I,C,SM,M,T,
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.enable.visibility.order=false
