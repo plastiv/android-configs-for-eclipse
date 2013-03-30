@@ -13,4 +13,12 @@ To use this preferences:
 Whats included:
 ---------------
 
+* Java - Appearence - Members sort order preferences
+* Java - Code style - Clean up android profile
+* Java - Code style - Formatter android profile
+* Java - Code style - Organize imports preferences
+* Java - Compiler - Compliance level set to 1.6
+* Java - Compiler - Errors/Warnings preferences
+* Java - Compiler - Javadoc preferences
+
 ![Preference that would be changed](/Description/Img/preference-to-change-highlighted.png)
