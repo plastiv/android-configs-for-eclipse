@@ -20,5 +20,8 @@ Whats included:
 * Java - Compiler - Compliance level set to 1.6
 * Java - Compiler - Errors/Warnings preferences
 * Java - Compiler - Javadoc preferences
+* Java - Editor - Content assist - turned on autocompletion
+* Java - Editor - Content assist - Favorites added some guava static imports
+* Java - Editor - Save actions - turned on autoformat 
 
 ![Preference that would be changed](/Description/Img/preference-to-change-highlighted.png)
