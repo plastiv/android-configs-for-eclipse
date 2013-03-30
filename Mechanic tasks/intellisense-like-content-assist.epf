@@ -1,0 +1,10 @@
+# @title Intellisense like content assists
+# @description Automatically make suggestions as you type. No need to press ctrl+space so often.
+# @task_type RECONCILE
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Sat Mar 30 18:41:52 EET 2013
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.(abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_delay=0
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation=true
