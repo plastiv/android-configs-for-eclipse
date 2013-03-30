@@ -1,0 +1,22 @@
+# @title Missed javadoc warnings
+# @description Javadoc warnings
+# @task_type RECONCILE
+#
+#Thu Feb 09 16:29:39 EET 2012
+
+file_export_version=3.0
+
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.invalidJavadoc=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.invalidJavadocTags=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.invalidJavadocTagsDeprecatedRef=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.invalidJavadocTagsNotVisibleRef=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.invalidJavadocTagsVisibility=public
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocComments=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocCommentsOverriding=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocCommentsVisibility=public
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocTagDescription=all_standard_tags
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocTags=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocTagsMethodTypeParameters=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocTagsOverriding=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingJavadocTagsVisibility=public
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.doc.comment.support=enabled

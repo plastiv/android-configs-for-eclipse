@@ -1,0 +1,82 @@
+# @title Compiler problem warnings
+# @description Compiler problem warnings
+# @task_type RECONCILE
+#
+#Thu Feb 09 16:07:21 EET 2012
+# unqualifiedFieldAccess=ignore because(force to use this or getter setter) 
+# fatalOptionalError=enabled to force delete all warnings
+# nonExternalizedStringLiteral=ignore because it is not actual for android
+
+file_export_version=3.0
+
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unavoidableGenericTypeProblems=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingHashCodeMethod=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.methodWithConstructorName=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nonExternalizedStringLiteral=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameterWhenOverridingConcrete=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantSuperinterface=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.typeParameterHiding=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.autoboxing=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nullReference=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.noEffectAssignment=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.suppressOptionalwarnings=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.reportMethodCanBeStatic=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingSerialVersion=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deprecation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedLocal=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.parameterAssignment=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameterWhenImplementingAbstract=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameterIncludeDocCommentReference=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.finalParameterBound=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.incompatibleNonInheritedInterfaceMethod=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.possibleAccidentalBooleanAssignment=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedLabel=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fallthroughCase=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.syntheticAccessEmulation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.noImplicitStringConversion=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unnecessaryTypeCheck=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedImport=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.finallyBlockNotCompletingNormally=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantSpecificationOfTypeArguments=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deprecationWhenOverridingDeprecatedMethod=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.forbiddenReference=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deadCode=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantNullCheck=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.specialParameterHidingField=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.reportMethodCanBePotentiallyStatic=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.hiddenCatchBlock=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownException=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingOverrideAnnotation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedPrivateMember=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownExceptionWhenOverriding=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fieldHiding=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.uncheckedTypeOperation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.overridingPackageDefaultMethod=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingDeprecatedAnnotation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.varargsArgumentNeedCast=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unqualifiedFieldAccess=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingSynchronizedOnInheritedMethod=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.includeNullInfoFromAsserts=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.potentialNullReference=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.suppressWarnings=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.discouragedReference=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.rawTypeReference=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.undocumentedEmptyBlock=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.emptyStatement=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownExceptionIncludeDocCommentReference=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.localVariableHiding=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.staticAccessReceiver=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.comparingIdentical=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unhandledWarningToken=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deprecationInDeprecatedCode=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.annotationSuperInterface=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameter=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedWarningToken=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unnecessaryElse=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingOverrideAnnotationForInterfaceMethodImplementation=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.incompleteEnumSwitch=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.indirectStaticAccess=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownExceptionExemptExceptionAndThrowable=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedObjectAllocation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fatalOptionalwarning=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fatalOptionalError=disabled

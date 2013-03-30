@@ -1,0 +1,12 @@
+# @title Import order
+# @description Import order android style profile
+# @task_type RECONCILE
+#
+#Mon Feb 06 10:54:33 EET 2012
+
+file_export_version=3.0
+
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.ondemandthreshold=99
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.staticondemandthreshold=99
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.importorder=com;android;org;java;javax;
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.ignorelowercasenames=true
